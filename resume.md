@@ -22,10 +22,7 @@ Experience
 ----------
 
 **UChicago Physics Department**
-
-Research Assistant
-
-November 2021 - Present
+: Research Assistant; November 2021 - Present
 
 * Assist Dr. Henry Frisch of the Particle Physics department in filing a patent for a novel large-area
 photocathode detector for measuring time-of-arrival of relativistic particles
@@ -34,37 +31,26 @@ photocathode detector for measuring time-of-arrival of relativistic particles
 array configurations
 
 **Sereno Fossil Lab**
-
-Lab Assistant
-
-November 2021 - Present
+: Lab Assistant; November 2021 - Present
 
 * Clean, catalog, sort, and transport fossils and artifacts in preparation for moving the lab to a new
 building
 
 **UChicago IT Services**
-
-TechBar Support Specialist 
-
-May 2021 - December 2021
+: TechBar Support Specialist; May 2021 - December 2021
 
 * Diagnosed and resolved a variety of software, hardware, and connectivity issues
 * Assisted staff and students on campus with accessing and using University tech resources
 
-**DC Bilingual Public Charter School in Washington, D.C.**
+**DC Bilingual Public Charter School** in Washington, D.C.
+: Volunteer; September 2018 - March 2020
 
-Volunteer 
-
-September 2018 - March 2020
 * Filed and organized student work to track and document progress
 * Prepared materials for class activities and art projects
 * Provided general assistance to classroom teachers and students in both English and Spanish
 
 **Appalachia Service Project** in Cross Lanes, WV and Logan, WV
-
-Volunteer 
-
-Summer 2018, Summer 2019
+: Volunteer; Summer 2018, Summer 2019
 
 * Worked in a team constructing wheelchair ramps for homes in rural West Virginia
 * Gained experience using power tools, working within ADA regulations and construction codes
