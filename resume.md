@@ -85,23 +85,14 @@ Languages
 Extracurriculars 
 ----------------------------------------
 
-* UChicago Robotics
+UChicago Robotics &nbsp;&nbsp;&nbsp;&nbsp;&#183;&nbsp;&nbsp;&nbsp;&nbsp; *Mechanical Engineering Team Lead*
+: Lead and organize the MechE team in prototyping and constructing a large-scale autonomous de-icing robot to make campus safer in winter
 
-*Mechanical Engineering Team Lead*
+Polish American Student Association &nbsp;&nbsp;&nbsp;&nbsp;&#183;&nbsp;&nbsp;&nbsp;&nbsp; *Webmaster*
+: Manage the club website and email listserv, ensuring all events are clearly communicated to members
+: Promote Polish culture on campus through club events: food, movies, traditional holiday celebrations
 
-     * Lead and organize the MechE team in prototyping and constructing a large-scale autonomous de-icing robot to make campus safer in winter
-
-* Polish American Student Association
-
-*Webmaster*
-
-* Manage the club website and email listserv, ensuring all events are clearly communicated to members
-* Promote Polish culture on campus through club events: food, movies, traditional holiday celebrations
-
-* UChicago Quantum Society
-
-*Club Member*
-
-* Learn about and discuss topics related to quantum information science and quantum computing in weekly meetings
+UChicago Quantum Society &nbsp;&nbsp;&nbsp;&nbsp;&#183;&nbsp;&nbsp;&nbsp;&nbsp; *Club Member*
+: Learn about and discuss topics related to quantum information science and quantum computing in weekly meetings
 
 [Go Back](README.md)
