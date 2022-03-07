@@ -8,7 +8,8 @@ Chicago, IL &#183; awwellisz@uchicago.edu &#183; (202)-590-0792
 Education
 ---------
 
-2020 - 2024
+| University of Chicago | 2020 - 2024 (Expected) |
+| :-------------------- | ---------------------: |
 :   **B.S., Molecular Engineering: Quantum Engineering**; University of Chicago; Chicago, IL
 
     *Minor in Computer Science*
