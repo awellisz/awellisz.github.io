@@ -1,13 +1,6 @@
-# awellisz.github.io
+# Antoś Wellisz
 
-Testing the theme.
-
-```python
-for i in range(10):
-  print("Hello world!")
-```
-
-# hmmm
-
-- yes
-- no
+- ![About Me](about.md)
+- ![Résumé](resume.md)
+- ![Research](research.md)
+- ![Misc](misc.md)
