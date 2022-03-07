@@ -2,23 +2,26 @@ Antoni Wellisz
 ============
 
 -------------------    
-Chicago, IL &#183; awwellisz@uchicago.edu &#183; (202)-590-0792
+
+### Chicago, IL &nbsp;&nbsp;&nbsp;&nbsp;&#183;&nbsp;&nbsp;&nbsp;&nbsp; awwellisz@uchicago.edu &nbsp;&nbsp;&nbsp;&nbsp;&#183;&nbsp;&nbsp;&nbsp;&nbsp; (202)-590-0792
+
 -------------------
 
 Education
 ---------
 
-| University of Chicago | 2020 - 2024 (Expected) |
-| :-------------------- | ---------------------: |
+2020 - 2024
 :   **B.S., Molecular Engineering: Quantum Engineering**; University of Chicago; Chicago, IL
 
     *Minor in Computer Science*
+    
     *GPA: 3.86*
+
 
 Experience
 ----------
 
-**UChicago Physics Department:**
+**UChicago Physics Department**
 
 Research Assistant
 
@@ -30,60 +33,75 @@ photocathode detector for measuring time-of-arrival of relativistic particles
 *  Create Monte Carlo simulations in Python to test the viability and efficiency of different photocathode
 array configurations
 
-**That Other Job You Had**
+**Sereno Fossil Lab**
 
-Also with a short description.
+Lab Assistant
 
-Technical Experience
+November 2021 - Present
+
+* Clean, catalog, sort, and transport fossils and artifacts in preparation for moving the lab to a new
+building
+
+**UChicago IT Services**
+
+TechBar Support Specialist 
+
+May 2021 - December 2021
+
+* Diagnosed and resolved a variety of software, hardware, and connectivity issues
+* Assisted staff and students on campus with accessing and using University tech resources
+
+**DC Bilingual Public Charter School in Washington, D.C.**
+
+Volunteer 
+
+September 2018 - March 2020
+* Filed and organized student work to track and document progress
+* Prepared materials for class activities and art projects
+* Provided general assistance to classroom teachers and students in both English and Spanish
+
+**Appalachia Service Project** in Cross Lanes, WV and Logan, WV
+
+Volunteer 
+
+Summer 2018, Summer 2019
+
+* Worked in a team constructing wheelchair ramps for homes in rural West Virginia
+* Gained experience using power tools, working within ADA regulations and construction codes
+* Completed both construction projects two weeks ahead of schedule
+
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Programming
+:   Python (NumPy, SciPy, MatPlotLib, Pandas), R, Git version control, LaTeX typesetting
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Software
+:   Fusion 360 CAD, PixInsight astronomy image processing, Adob e Photoshop
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Languages
+:   Read, Write, and Speak Spanish proficiently; Heritage Polish speaker
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Extracurriculars 
 ----------------------------------------
 
-* Human Languages:
+* UChicago Robotics
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+*Mechanical Engineering Team Lead*
 
-* Random tidbit
+     * Lead and organize the MechE team in prototyping and constructing a large-scale autonomous de-icing robot to make campus safer in winter
 
-* Other sort of impressive-sounding thing you did
+* Polish American Student Association
+
+*Webmaster*
+
+* Manage the club website and email listserv, ensuring all events are clearly communicated to members
+* Promote Polish culture on campus through club events: food, movies, traditional holiday celebrations
+
+* UChicago Quantum Society
+
+*Club Member*
+
+* Learn about and discuss topics related to quantum information science and quantum computing in weekly meetings
 
 [Go Back](README.md)
